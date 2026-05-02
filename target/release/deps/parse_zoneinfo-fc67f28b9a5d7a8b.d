@@ -1,0 +1,11 @@
+/home/nobus/Projects/OauthRS/target/release/deps/parse_zoneinfo-fc67f28b9a5d7a8b.d: /home/nobus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parse-zoneinfo-0.3.1/src/lib.rs /home/nobus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parse-zoneinfo-0.3.1/src/line.rs /home/nobus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parse-zoneinfo-0.3.1/src/structure.rs /home/nobus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parse-zoneinfo-0.3.1/src/table.rs /home/nobus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parse-zoneinfo-0.3.1/src/transitions.rs
+
+/home/nobus/Projects/OauthRS/target/release/deps/libparse_zoneinfo-fc67f28b9a5d7a8b.rlib: /home/nobus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parse-zoneinfo-0.3.1/src/lib.rs /home/nobus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parse-zoneinfo-0.3.1/src/line.rs /home/nobus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parse-zoneinfo-0.3.1/src/structure.rs /home/nobus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parse-zoneinfo-0.3.1/src/table.rs /home/nobus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parse-zoneinfo-0.3.1/src/transitions.rs
+
+/home/nobus/Projects/OauthRS/target/release/deps/libparse_zoneinfo-fc67f28b9a5d7a8b.rmeta: /home/nobus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parse-zoneinfo-0.3.1/src/lib.rs /home/nobus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parse-zoneinfo-0.3.1/src/line.rs /home/nobus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parse-zoneinfo-0.3.1/src/structure.rs /home/nobus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parse-zoneinfo-0.3.1/src/table.rs /home/nobus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parse-zoneinfo-0.3.1/src/transitions.rs
+
+/home/nobus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parse-zoneinfo-0.3.1/src/lib.rs:
+/home/nobus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parse-zoneinfo-0.3.1/src/line.rs:
+/home/nobus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parse-zoneinfo-0.3.1/src/structure.rs:
+/home/nobus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parse-zoneinfo-0.3.1/src/table.rs:
+/home/nobus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parse-zoneinfo-0.3.1/src/transitions.rs:

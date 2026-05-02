@@ -1,0 +1,22 @@
+[Unit]
+Description=OauthRS Authentication Server
+After=network.target
+
+[Service]
+User=nobus
+Group=users
+
+WorkingDirectory=/var/services/homes/nobus/AuthServer
+EnvironmentFile=/var/services/homes/nobus/AuthServer/.env
+
+ExecStart=/var/services/homes/nobus/AuthServer/oauth-rs
+ExecStop=/bin/kill -SIGTERM $MAINPID
+
+Restart=always
+RestartSec=3
+
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,12 @@
+/home/nobus/Projects/CamWatcher/Tools/OauthRS/target/debug/deps/ignore-09ae2a180cf19636.d: /home/nobus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ignore-0.4.25/src/lib.rs /home/nobus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ignore-0.4.25/src/default_types.rs /home/nobus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ignore-0.4.25/src/dir.rs /home/nobus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ignore-0.4.25/src/gitignore.rs /home/nobus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ignore-0.4.25/src/overrides.rs /home/nobus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ignore-0.4.25/src/pathutil.rs /home/nobus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ignore-0.4.25/src/types.rs /home/nobus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ignore-0.4.25/src/walk.rs
+
+/home/nobus/Projects/CamWatcher/Tools/OauthRS/target/debug/deps/libignore-09ae2a180cf19636.rmeta: /home/nobus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ignore-0.4.25/src/lib.rs /home/nobus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ignore-0.4.25/src/default_types.rs /home/nobus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ignore-0.4.25/src/dir.rs /home/nobus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ignore-0.4.25/src/gitignore.rs /home/nobus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ignore-0.4.25/src/overrides.rs /home/nobus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ignore-0.4.25/src/pathutil.rs /home/nobus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ignore-0.4.25/src/types.rs /home/nobus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ignore-0.4.25/src/walk.rs
+
+/home/nobus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ignore-0.4.25/src/lib.rs:
+/home/nobus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ignore-0.4.25/src/default_types.rs:
+/home/nobus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ignore-0.4.25/src/dir.rs:
+/home/nobus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ignore-0.4.25/src/gitignore.rs:
+/home/nobus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ignore-0.4.25/src/overrides.rs:
+/home/nobus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ignore-0.4.25/src/pathutil.rs:
+/home/nobus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ignore-0.4.25/src/types.rs:
+/home/nobus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ignore-0.4.25/src/walk.rs:
