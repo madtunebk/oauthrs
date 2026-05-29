@@ -150,7 +150,7 @@ pub async fn callback(
 async fn find_or_create_user(state: &AppState, info: &GoogleUserInfo) -> Result<Uuid, StatusCode> {
     // Try find by google_id
     let existing: Option<(Uuid,)> = sqlx::query_as(
-        "SELECT id FROM users WHERE google_id = $1"
+        "SELECT id FROM users WHERE google_id = $1 AND deleted_at IS NULL AND disabled_at IS NULL"
     )
     .bind(&info.id)
     .fetch_optional(&state.db)
@@ -163,7 +163,7 @@ async fn find_or_create_user(state: &AppState, info: &GoogleUserInfo) -> Result<
 
     // Try find by email — link google_id to existing account
     let by_email: Option<(Uuid,)> = sqlx::query_as(
-        "UPDATE users SET google_id = $1 WHERE email = $2 RETURNING id"
+        "UPDATE users SET google_id = $1 WHERE email = $2 AND deleted_at IS NULL AND disabled_at IS NULL RETURNING id"
     )
     .bind(&info.id)
     .bind(&info.email)

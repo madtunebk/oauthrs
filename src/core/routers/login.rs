@@ -70,7 +70,11 @@ pub async fn handle_form(
 }
 
 async fn fetch_user(state: &AppState, login: &str) -> Result<(Uuid, String), StatusCode> {
-    sqlx::query_as("SELECT id, password_hash FROM users WHERE email = $1 OR username = $1")
+    sqlx::query_as(
+        "SELECT id, password_hash FROM users
+         WHERE (email = $1 OR username = $1)
+           AND deleted_at IS NULL AND disabled_at IS NULL"
+    )
         .bind(login)
         .fetch_optional(&state.db)
         .await
